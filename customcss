@@ -1,0 +1,46 @@
+html {
+  scroll-behavior: smooth;
+}
+
+a:focus {
+    outline:none !important;
+}
+
+.course-price
+
+.course-footer, .separator, .course-price, .lp-checkout-form__before, .total, .error
+ {
+	visibility: hidden;
+}
+
+.lp-modal-dialog .lp-modal-header{
+	background: #3F5B58;
+}
+
+.ekit-template-content-header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+body{
+	padding-top:90px;
+}
+
+.lp-archive-courses{
+	padding-top:10px;
+}
+
+.learn-press-courses-header h1{
+	color:#3F5B58;
+}
+
+.learn-press-breadcrumb{
+	margin-bottom:10px;
+}
+
+.ekit-menu-nav-link{
+	color:#ffffff !important;
+}
+
